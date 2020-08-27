@@ -1,6 +1,6 @@
 % lgraph = createLgraphUsingConnections(layers,connections) creates a layer
 % graph with the layers in the layer array |layers| connected by the
-% connections in |connections|.
+% connection in |connections|.
 
 function lgraph = createLgraphUsingConnections(layers,connections)
 
